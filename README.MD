@@ -40,7 +40,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+
 - [Notion Template](https://www.notion.so/Automatizando-tarefas-com-JavaScript-bd0461d39b764889b7ac869d36e0b8d2?pm=c)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
